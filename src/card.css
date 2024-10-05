@@ -1,0 +1,46 @@
+.card {
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+}
+
+.green .price {
+    background-color:rgb(2, 117, 2);
+    padding: 30px;
+}
+
+.green .name {
+    background-color: rgb(5, 184, 5);
+    padding: 10px;
+}
+
+.pink .price {
+    background-color: rgb(225, 200, 220);
+    padding: 30px;
+}
+
+.pink .name {
+    background-color: rgb(193, 127, 182);
+    padding: 10px;
+}
+
+.purple .price{
+    background-color: rgb(72, 5, 68);
+    padding: 30px;
+}
+
+.purple .name {
+    background-color: rgb(197, 102, 169);
+    padding: 10px;
+}
+
+.grey .price{
+    background-color: rgb(73, 71, 69);
+    padding: 30px;
+}
+
+.grey .price{
+    background-color: rgb(149, 157, 157);
+    padding: 10px;
+}
+
